@@ -5,7 +5,7 @@ im a fullstack developer working with all sorts of languages. I don't do a lot o
 
 usually not up for hiring/commissions but if INTERESTED feel free to contact.
 
-![zLancx's GitHub stats](https://github-readme-stats.vercel.app/api?username=zLancx&show_icons=true&theme=dark#gh-dark-mode-only)
+<img src="https://github.com/zLancx/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
 
 ![Windows](https://custom-icon-badges.demolab.com/badge/OS-Windows-0078D6?logo=windows11&logoColor=white)
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black)
